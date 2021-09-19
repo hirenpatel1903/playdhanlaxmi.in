@@ -1,0 +1,23 @@
+@media (min-width: 320px) and (max-width: 768px) {
+   .show-result h1 {
+    font-size: 30px;
+} 
+.container-fluid {
+    width: 100%;
+    padding-right: 2px;
+    padding-left: 2px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.results-sec h2 {
+    font-size: 20px;
+}
+.table thead th {
+    font-size: 14px;
+}
+.table td, .table th {
+    padding: 2px;
+    text-align:center;
+    font-size: 9px;
+}
+}
